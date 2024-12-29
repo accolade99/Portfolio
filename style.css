@@ -5,10 +5,18 @@ body{
 
 h1{
     color: rgb(32, 94, 52);
-    font-family: verdana;
+    font-family: verdana; text-shadow: 1px 2px 2px rgb(31, 182, 31);
 }
 
 h3{
     color: rgb(94, 32, 32);
     font-family: verdana;
+}
+
+p{
+    background-color: #fff; padding: 5px; margin: 10px 10px; border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+img{
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
